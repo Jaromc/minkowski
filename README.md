@@ -1,4 +1,4 @@
-# Minkowski DIfference #
+# Minkowski Difference and Collision Detection #
 
 This demonstrates the Minkowski Difference. Polygons A and B are subtracted from each other to form a Minkowski hull.
 This hull can be used for the purposes of collision detection. A collision occurs between polygon A and B if the origin is found within the resulting hull.
