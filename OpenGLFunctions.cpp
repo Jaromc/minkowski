@@ -1,4 +1,4 @@
-#include "GL_Functions.h"
+#include "OpenGLFunctions.h"
 #include "sdl_opengl.h"
 #include "sdl.h"
 
