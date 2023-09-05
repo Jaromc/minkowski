@@ -7,3 +7,5 @@ In this demo, a line is drawn from the resulting hull to the origin which repres
 This code is for reference purposes only. The code has been taken from an old project and hasn't been updated to compile.
 
 ### Demo ###
+https://github.com/Jaromc/minkowski/assets/89912906/9fd2b584-38c8-4269-841b-e35b5ed9090e
+
